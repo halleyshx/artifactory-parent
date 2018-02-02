@@ -1,0 +1,42 @@
+{
+  "name": "jstree",
+  "version": "3.0.0-beta10-patch7",
+  "main": [
+    "./dist/jstree.js",
+    "./dist/themes/default/style.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "docs",
+    "demo",
+    "libs",
+    "node_modules",
+    "test",
+    "libs",
+    "jstree.jquery.json",
+    "gruntfile.js",
+    "package.json",
+    "bower.json",
+    "component.json",
+    "LICENCE-MIT",
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  },
+  "keywords": [
+    "ui",
+    "tree",
+    "jstree"
+  ],
+  "homepage": "https://github.com/500tech/jstree",
+  "_release": "3.0.0-beta10-patch7",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.0.0-beta10-patch7",
+    "commit": "fd9320be35a5cd24ebe089a0509c08757aada508"
+  },
+  "_source": "git://github.com/500tech/jstree.git",
+  "_target": "3.0.0-beta10-patch7",
+  "_originalSource": "500tech/jstree"
+}

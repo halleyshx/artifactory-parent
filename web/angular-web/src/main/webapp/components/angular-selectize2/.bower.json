@@ -1,0 +1,19 @@
+{
+  "name": "angular-selectize2",
+  "main": [
+    "./dist/selectize.js"
+  ],
+  "dependencies": {
+    "selectize": ">=0.9.0"
+  },
+  "homepage": "https://github.com/500tech/angular-selectize",
+  "_release": "1742be76aa",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1742be76aab5413025fa35e2add598dc45f7ed09"
+  },
+  "_source": "git://github.com/500tech/angular-selectize.git",
+  "_target": "master",
+  "_originalSource": "500tech/angular-selectize"
+}

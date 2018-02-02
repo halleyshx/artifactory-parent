@@ -1,0 +1,20 @@
+{
+  "name": "createjs-combined",
+  "version": "2015.11.26",
+  "description": "Combined files for CreateJS",
+  "main": "createjs-2015.11.26.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escaleno-ltda/createjs-combined.git"
+  },
+  "keywords": ["createjs"],
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/escaleno-ltda/createjs-combined/issues"
+  },
+  "homepage": "https://github.com/escaleno-ltda/createjs-combined#readme"
+}

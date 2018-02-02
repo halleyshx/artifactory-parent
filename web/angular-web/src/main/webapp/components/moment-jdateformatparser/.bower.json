@@ -1,0 +1,42 @@
+{
+  "name": "moment-jdateformatparser",
+  "description": "Translates the `java.text.SimpleDateFormat` date format to the `moment.js` date format.",
+  "version": "1.1.0",
+  "authors": [
+    "Martin Groller <madmg82@gmail.com>",
+    "Heinz Romirer <h.romirer@gmail.com>"
+  ],
+  "main": "moment-jdateformatparser.js",
+  "keywords": [
+    "moment",
+    "java",
+    "date",
+    "format",
+    "java.net.DateFormat",
+    "time",
+    "parse"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "momentjs": "~2.4.0",
+    "jquery": "~2.0.3",
+    "qunit": "~1.12.0"
+  },
+  "homepage": "https://github.com/MadMG/moment-jdateformatparser",
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.0",
+    "commit": "a81c08dac6a42c8289e84b1dc39f42dee6ff6d14"
+  },
+  "_source": "https://github.com/MadMG/moment-jdateformatparser.git",
+  "_target": "^1.1.0",
+  "_originalSource": "moment-jdateformatparser"
+}
